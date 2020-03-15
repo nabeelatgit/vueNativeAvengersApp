@@ -14,4 +14,6 @@ Pre-requisites for running the App:-
 
 Tutorial Link : https://www.youtube.com/watch?v=05LZ6-FZj8
 
+I have used images for this app which are from external link. (https://wallpapersmug.com/)
+
 
