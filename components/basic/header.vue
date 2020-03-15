@@ -1,6 +1,6 @@
 <template>
     <view class="header">
-        <text class="header_title">Avengers Endgame</text>
+        <text class="header_title">Avengers Assemble</text>
     </view>
 </template>
 
@@ -13,6 +13,7 @@
 .header {
     padding: 15px;
     background-color: #ccc;
+    text-align: center;
 }
 .header_title {
     font-size: 30;
